@@ -1,0 +1,12 @@
+# Entorno virtual y temporales (nunca se suben)
+venv/
+__pycache__/
+*.pyc
+pesv_log.txt
+
+# Datos personales de conductores (nombre y cedula): NUNCA subir a GitHub
+data/consultas.json
+data/consultas_pendientes.json
+
+# Claves y datos de conexion
+.streamlit/secrets.toml

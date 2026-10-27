@@ -1,0 +1,194 @@
+[
+  {
+    "nombre": "Ruta 1: Cali – Sede Arroyo Hondo (Yumbo)",
+    "cliente": "",
+    "origen": "Cali, Calle 23 # 3-07",
+    "destino": "Cl. 15 # 27A-176, Arroyo Hondo, Yumbo",
+    "frecuencia": "Diaria",
+    "recorrido": "Cali – Autopista Cali–Yumbo – Arroyo Hondo",
+    "riesgos": "Congestión, vehículos pesados, cruces industriales",
+    "controles": "",
+    "medidas_preventivas": "Respetar límites de velocidad.\nMantener distancia de seguridad.\nEvitar adelantamientos.\nConducir con luces encendidas en condiciones de baja visibilidad.\nProgramar los desplazamientos evitando las horas pico cuando sea posible.",
+    "distancia": "9. 18km",
+    "tiempo": "25–35 minutos",
+    "mapa_url": "https://www.google.com/maps/d/edit?mid=18p31BQFsLHrV5PyIdMZdzWenZAcd4g0&usp=sharing",
+    "mapa_imagen": "mapa_5993eb6ce80d.jpg",
+    "puntos_criticos": [
+      {
+        "punto": "Salida de Cali",
+        "riesgo": "Congestión vehicular",
+        "nivel": "Medio"
+      },
+      {
+        "punto": "Autopista Cali–Yumbo",
+        "riesgo": "Alta velocidad de vehículos pesados",
+        "nivel": "Alto"
+      },
+      {
+        "punto": "Acceso a Arroyo Hondo",
+        "riesgo": "Cruces de tractomulas",
+        "nivel": "Alto"
+      }
+    ]
+  },
+  {
+    "nombre": "Ruta 2: Cali – Medellín",
+    "cliente": "",
+    "origen": "Cali, Calle 23 # 3-07",
+    "destino": "Cra. 46 #42-59, La Candelaria, Medellín",
+    "frecuencia": "Eventual (ejemplo)",
+    "recorrido": "Cali – Palmira – Buga – La Paila – Pereira – La Pintada – Medellín",
+    "riesgos": "Curvas, carga pesada, descensos, congestión urbana",
+    "controles": "Inspección del vehículo, pausas activas, revisión del estado de las vías",
+    "medidas_preventivas": "Realizar inspección preoperacional del vehículo.\nProgramar pausas activas cada 2 horas.\nNo conducir con fatiga.\nVerificar previamente el estado de la vía.\nEvitar conducción nocturna cuando sea posible.",
+    "distancia": "420 km",
+    "tiempo": "8 a 10 horas dependiendo del tráfico.",
+    "mapa_url": "https://www.google.com/maps/d/u/0/edit?mid=18p31BQFsLHrV5PyIdMZdzWenZAcd4g0&usp=sharing",
+    "mapa_imagen": "mapa_905f83bb2fca.jpg",
+    "puntos_criticos": [
+      {
+        "punto": "Salida de Cali",
+        "riesgo": "Alta congestión y tráfico urbano",
+        "nivel": "Medio"
+      },
+      {
+        "punto": "Buga",
+        "riesgo": "Cruces e ingreso a zona urbana",
+        "nivel": "Medio"
+      },
+      {
+        "punto": "La Paila",
+        "riesgo": "Alto tránsito de vehículos de carga",
+        "nivel": "Alto"
+      },
+      {
+        "punto": "Pereira",
+        "riesgo": "Congestión e intersecciones",
+        "nivel": "Medio"
+      },
+      {
+        "punto": "La Pintada",
+        "riesgo": "Descensos y curvas de montaña",
+        "nivel": "Alto"
+      },
+      {
+        "punto": "Ingreso a Medellín",
+        "riesgo": "Alta densidad vehicular",
+        "nivel": "Alto"
+      }
+    ]
+  },
+  {
+    "nombre": "Ruta 3: Portos - El universo del yeso sas",
+    "cliente": "EL UNIVERSO DEL YESO SAS",
+    "origen": "Sede portos",
+    "destino": "Ak 68 #37 Sur-90, Bogotá",
+    "frecuencia": "Diaria",
+    "recorrido": "Portos-avenida calle 80-avenida boyacá-avenida centenario-avenida 68",
+    "riesgos": "Carga pesada, congestión vehicular,",
+    "controles": "",
+    "medidas_preventivas": "Realizar inspección preoperacional del vehículo.\n\n No conducir con fatiga.\n\nVerificar previamente el estado de la vía.\n\nEvitar conducción nocturna cuando sea posible.",
+    "distancia": "21 km",
+    "tiempo": "1 hora y 50 minutos",
+    "mapa_url": "https://www.google.com/maps/d/u/0/edit?mid=10WLCR-WcD6ajcsLTE9C7XKxaqPNJV-U&usp=sharing",
+    "mapa_imagen": "mapa_9bd110b02308.jpg",
+    "puntos_criticos": [
+      {
+        "punto": "Avenidad calle 80",
+        "riesgo": "Alta accidentalidad por exceso de velocidad",
+        "nivel": "Alto"
+      }
+    ]
+  },
+  {
+    "nombre": "ACABADOS Y SOLUCIONES DRYWALL SAS",
+    "cliente": "ACABADOS Y SOLUCIONES DRYWALL SAS",
+    "origen": "San Nicolás (calle 23 # 3 - 07)",
+    "destino": "Carrera 4D # 14 - 38 Oeste",
+    "frecuencia": "Eventual",
+    "recorrido": "",
+    "riesgos": "Accidentes de tránsito\nCongestión Vehicular\nRobos- atracos",
+    "controles": "Señalización vial\nReporte de condiciones de riesgo\nInspección preoperacional de vehiculo",
+    "medidas_preventivas": "Respetar límites de velocidad.\nMantener distancia de seguridad.\nEvitar adelantamientos.\nConducir con luces encendidas en condiciones de baja visibilidad.\nProgramar los desplazamientos evitando las horas pico cuando sea posible.",
+    "distancia": "9.93 kilómetros",
+    "tiempo": "",
+    "mapa_url": "https://www.google.com/maps/d/u/0/edit?mid=1nY46sjRbGg3jBPIzNHIvkwTJQZx2kkc&ll=3.4348894514116695%2C-76.54106500000002&z=14",
+    "mapa_imagen": "mapa_aaa232a26d30.jpg",
+    "puntos_criticos": [
+      {
+        "punto": "Calle 25",
+        "riesgo": "Accidentes de tránsito",
+        "nivel": "Alto"
+      },
+      {
+        "punto": "Calle 25 con carrera 32a",
+        "riesgo": "Robos- atracos",
+        "nivel": "Medio"
+      },
+      {
+        "punto": "calle 23 ",
+        "riesgo": "Congestión Vehicular",
+        "nivel": "Bajo"
+      }
+    ]
+  },
+  {
+    "nombre": "LA 50 FERRETERIA SAS",
+    "cliente": "LA 50 FERRETERIA SAS",
+    "origen": "Calle 23 # 3 - 07",
+    "destino": "Calle 75 b Norte # 2A bis - 103",
+    "frecuencia": "Diaria",
+    "recorrido": "",
+    "riesgos": "Accidentes de tránsito calle 25",
+    "controles": "",
+    "medidas_preventivas": "Respetar los límites de velocidad\nMantener distancia segura con los otros vehículos\nNo adelantar a otros vehículos en curvas o con poca visibilidad  \nProgramar desplazamientos con tiempo para evitar el exceso de velocidad",
+    "distancia": "3.69 kilómetros",
+    "tiempo": "",
+    "mapa_url": "https://www.google.com/maps/d/u/0/edit?mid=1E5wz_dsM7hTLRUnckzp7BIqynOv9Xy8&usp=sharing",
+    "mapa_imagen": "mapa_d2a907c1532e.jpg",
+    "puntos_criticos": [
+      {
+        "punto": "Calle 25 entre carrera 1ra y carrera 10",
+        "riesgo": "Accidentes de tránsito ",
+        "nivel": "Medio"
+      }
+    ]
+  },
+  {
+    "nombre": "JC PROYECTOS Y CONSTRUCCIONES SAS",
+    "cliente": "JC PROYECTOS Y CONSTRUCCIONES SAS",
+    "origen": "Calle 23 # 3 - 07",
+    "destino": "Calle 75b Norte # 2A BIS 103",
+    "frecuencia": "Eventual",
+    "recorrido": "Delta global sas \nTerminal de Transporte de Cali\nCentro Comercial La Pasarela\nEstación Centro Comercial Cali (MIO)\nClínica Cali Norte\nSector de Jorge Isaacs\nCorredor paralelo al Río Cali\nSector de Olaya Herrera\nEPS Sanitas Centro Flora Industrial\nSector de Ciudad Los Álamos\nCruce de la Autopista Oriental\nAlkosto Cali Norte\nTerminal MIO Paso del Comercio\nSector de Brisas de los Álamos\nMerami Guadalupe\nMercatodo Florialia (destino)",
+    "riesgos": "Accidentes de tránsito\n Riesgo de hurto por descuido durante detenciones o embotellamientos",
+    "controles": "",
+    "medidas_preventivas": "Mantener vidrios cerrados en congestiones.\nNo manipular celular mientras se conduce o estando detenido en semáforos.\nMantener distancia de seguridad para maniobrar ante emergencias.\nEvitar desplazamientos nocturnos innecesarios por tramos poco concurridos.\nUtilizar rutas principales iluminadas",
+    "distancia": "6.1 kilómetros",
+    "tiempo": "25 minutos",
+    "mapa_url": "https://www.google.com/maps/d/u/0/edit?mid=1MczKJdK5PgI_ulkX_cIYVEQWGvT48kY&usp=sharing",
+    "mapa_imagen": "mapa_6e1f44367478.jpg",
+    "puntos_criticos": [
+      {
+        "punto": "Sector Terminal de Transporte de Cali",
+        "riesgo": "Riesgo de hurto por descuido durante detenciones o embotellamientos",
+        "nivel": "Medio"
+      },
+      {
+        "punto": "Intersección Carrera 1 con Calle 34 Norte",
+        "riesgo": "Confluencia de tráfico proveniente de La Flora, Prados del Norte y Versalles.",
+        "nivel": "Medio"
+      },
+      {
+        "punto": "Entorno de Alkosto Cali Norte y Paso del Comercio",
+        "riesgo": "Alto volumen de vehículos particulares, motocicletas y transporte público.",
+        "nivel": "Medio"
+      },
+      {
+        "punto": "Acceso a Floralia",
+        "riesgo": "Incremento de la congestión durante horarios laborales.",
+        "nivel": "Medio"
+      }
+    ]
+  }
+]
